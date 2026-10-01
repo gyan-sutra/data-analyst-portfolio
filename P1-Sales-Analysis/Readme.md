@@ -26,10 +26,10 @@ Python, pandas, matplotlib, plotly, SQLite, SQL
 - Revenue grew 51% from 2014 to 2017.
 
 ## Live Dashboard
-[View interactive dashboard](https://statistical-guru.github.io/data-analyst-portfolio/dashboard.html)
+[View interactive dashboard](https://gyan-sutra.github.io/data-analyst-portfolio/P1-Sales-Analysis/Outputs/dashboard.html)
 
 ## Files
-- `notebooks/sales_analysis.ipynb` — full analysis notebook
-- `outputs/sales_analysis_4panel.png` — summary chart
-- `outputs/extended_analysis.png` — seasonality and yearly growth charts
-- `outputs/dashboard.html` — interactive plotly dashboard
+- `Notebooks/sales_analysis.ipynb` — full analysis notebook
+- `Outputs/sales_analysis_4panel.png` — summary chart
+- `Outputs/extended_analysis.png` — seasonality and yearly growth charts
+- `Outputs/dashboard.html` — interactive plotly dashboard
